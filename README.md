@@ -1,2 +1,6 @@
 # totalitycorp-frontend-challenge
-hello
+
+# Techs
+1.React
+2.styled Components
+3.React-reveal/Fade
